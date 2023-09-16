@@ -18,10 +18,6 @@ To run this project,
 - Complex architectures like the pure clean architecture can also increase code complexity since decoupling your code also means creating lots of data transformations(mappers) and models, that may end up increasing the learning curve of your code to a point where it would be better to use a simpler architecture like MVVM.
 
 - Clean arcitecture has only been used in this repository to showcase my skills and it's not recommended to use clean architecture in a small scale projects such as this one
-> TAKE NOTE: This project is still under development and you may run into bugs. You may still contribute to it though. :)
-
-So let's get started ...
-
 
 ### Clean Architecture?
 
