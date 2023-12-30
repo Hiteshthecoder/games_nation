@@ -47,7 +47,7 @@ To run this project,
 - [flutter_spinkit](https://pub.dev/packages/flutter_spinkit) : A collection of loading indicators animated with flutter. Heavily inspired by @tobiasahlin's SpinKit.
 
 
-## App ScreenShots
+## App Screenshots
 
 <center>
   <table>
